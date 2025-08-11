@@ -14,4 +14,10 @@
 ## 📌 Projects
 - NFS load time test on NVMe vs HDD  
 - USB virus removal write-up  
-- Godot te
+- Godot test scenes (upload here)  
+
+## 🧠 Currently Learning
+- Git & GitHub  
+- Building my first full game in Godot  
+- Writing blog posts and tutorials
+
